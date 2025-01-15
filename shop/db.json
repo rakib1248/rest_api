@@ -1,6 +1,35 @@
 {
   "users": [],
-  "products": [],
+  "products": [
+    {
+      "name": "Ipone 13 pro max",
+      "price": "334345",
+      "dec": "this is a good product Ipone 13 pro max",
+      "image": "https://res.cloudinary.com/drpihbzih/image/upload/v1736937093/yxe1qylaklgxtmqahniq.jpg",
+      "id": 1
+    },
+    {
+      "name": "Rolex Watch",
+      "price": "1232",
+      "dec": "this is a good product Rolex Watch",
+      "image": "https://res.cloudinary.com/drpihbzih/image/upload/v1736937415/rbydchktr6nao5vzfvou.jpg",
+      "id": 2
+    },
+    {
+      "name": "headphone iQo 7",
+      "price": "123",
+      "dec": "this is a good product headphone iQo 7",
+      "image": "https://res.cloudinary.com/drpihbzih/image/upload/v1736937727/mlubjoonq1td42agwuxm.jpg",
+      "id": 3
+    },
+    {
+      "name": "T-shirt",
+      "price": "12",
+      "dec": "this is a good product T-shirt",
+      "image": "https://res.cloudinary.com/drpihbzih/image/upload/v1736938064/t7fwmmfmioqw6q88xecy.jpg",
+      "id": 4
+    }
+  ],
   "admin": [
     {
       "id": 1,
